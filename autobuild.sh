@@ -26,6 +26,6 @@ do
     cp $header /usr/include/Cap
 done
 
-cp `pwd`/lib/libmymuduo.so /usr/lib
+cp `pwd`/lib/libCap.so /usr/lib
 
 ldconfig
